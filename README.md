@@ -26,7 +26,7 @@
     - A Pastebin clone with code syntax highlighting.<br>
         - Tech: React, Expressjs, Nodejs, MongoDB Atlas, Bootstrap<br>
 
-- [Contact Manager](https://github.com/colemaring/LAMP-Contact-Manager-Build)
+- [Contact Manager](https://github.com/colemaring/LAMP-Contact-Manager)
     - A simple contact manager.<br>
         - Tech: Linux, Apache, MySql, PHP, Bootstrap<br>
 
