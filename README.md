@@ -8,7 +8,7 @@
     - A neural network for player detection. Supports aiming and shooting assist.<br>
         - Tech: PyTorch, YOLOv8<br> 
 
-- 🔒🛠️[Disney Virtual Queue Joiner]()
+- 🔒🛠️[Disney Virtual Queue Joiner](https://github.com/colemaring/Disney-Virtual-Queue)
     - A program to automatically join the Disney virtual queue at 7 am so you can sleep in.<br>
         - Tech: UiAutomator2, Nodejs<br> 
 
