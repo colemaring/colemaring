@@ -10,7 +10,7 @@
 
 - 🔒🛠️[Disney Virtual Queue Joiner](https://github.com/colemaring/Disney-Virtual-Queue)
     - A program to automatically join the Disney virtual queue at 7 am so you can sleep in.<br>
-        - Tech: UiAutomator2, Nodejs<br> 
+        - Tech: Docker, Android SDK, Nodejs, Express, React<br> 
 
 - [Stencil Creator](https://github.com/colemaring/Stencil-Creator)
     - A Threejs web app to create and export text stencils for 3D printing and CNC applications.<br>
